@@ -1,0 +1,6 @@
+test\spring\SumProcessor.class
+test\spring\Main.class
+test\spring\DivideProcessor.class
+test\spring\MultiplyProcessor.class
+test\spring\SubtractProcessor.class
+test\spring\Calculator.class
